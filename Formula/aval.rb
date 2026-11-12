@@ -1,9 +1,9 @@
 class Aval < Formula
   desc "Command-line client for Aval plans (get and push)"
   homepage "https://aval.opeaz.com"
-  url "https://aval.opeaz.com/cli/aval-0.1.55.cjs"
-  version "0.1.55"
-  sha256 "66544a50cebda0334909f65057a7303b9ffb8416ffdc8382b487853c38fa415f"
+  url "https://aval.opeaz.com/cli/aval-0.1.57.cjs"
+  version "0.1.57"
+  sha256 "bc5df7c106b6b36174217cd2b079a8d16f7db158a92835a1d80cc9d39572d1e5"
   depends_on "node"
 
   def install
